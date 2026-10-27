@@ -1,0 +1,26 @@
+[
+  {
+    "file": "examples/media/chicken-comparison.jpg",
+    "source_filename": "对比_实拍_vs_v1_vs_v3.jpg",
+    "width": 1897,
+    "height": 1000,
+    "bytes": 502834,
+    "sha256": "e9399fe873ffaea6fc745696aac4ba3356343915fff92ed723378881a87c8151"
+  },
+  {
+    "file": "examples/media/chicken-v4.png",
+    "source_filename": "A12v4_红油串串微距_提串离罐_定稿版.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2332173,
+    "sha256": "6bb6e35f71e80ea314e9e617f3a5acc163ff05ef58edb08974c05eeeec43d792"
+  },
+  {
+    "file": "examples/media/sign-contact-sheet.jpg",
+    "source_filename": "校对_招牌文字_9帧.jpg",
+    "width": 910,
+    "height": 1618,
+    "bytes": 444691,
+    "sha256": "c120f95ea1b2a8e5f0d1147736de7ec6941ac02b85f7cabd53e7a2880d19d274"
+  }
+]
